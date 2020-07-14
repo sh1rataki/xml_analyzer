@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as ET
 import re
 import urllib.request
-import numpy as np 
 import pprint
 
 def analyzeSitemap(root):
